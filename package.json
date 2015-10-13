@@ -1,5 +1,5 @@
 {
-  "name": "weatheryo",
+  "name":  "weatheryo",
   "version": "0.0.1",
   "description": "Out of the box I include scaffolding apiproxy, Node.js, and Gruntfile to build your app.",
   "main": "index.js",
